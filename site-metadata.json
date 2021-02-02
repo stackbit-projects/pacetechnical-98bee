@@ -4,7 +4,7 @@
     "header": {
         "logo_img": "images/PACE LOGO SPAIN RGB AW.png",
         "logo_img_alt": "Logo",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
