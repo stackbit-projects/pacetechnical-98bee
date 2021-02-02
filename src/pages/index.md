@@ -18,7 +18,7 @@ sections:
         url: lorem-ipsum
         style: primary
         has_icon: false
-        icon: arrow-left
+        icon: github
         icon_position: left
         new_window: false
         no_follow: false
